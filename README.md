@@ -6,7 +6,7 @@
 
 
 <p></p>
-<img align="right" alt="Coding" width="400" src="https://d3dgthzonidx0u.cloudfront.net/f9fogi%2Fpreview%2F59647983%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1721985272&Signature=fFVIHBY~aWvjFNajjsm3FM7MzeDiTIJoNpbS3Arh~DqKODOeZUgK9eWyBS70AByVX9e83fGAmhljw1baylfO5WY-ADy6GfFUrJZloJDgiINpR9xbJ0O8HfKGGchOJSLDXQqX94OPzJskJeK7-QvYnZSLzxiqTf6vhVIYFPX02tHKqTCGJzsoPCF4l6UOmvHwVdpL10LT3UgUWpFpJn498SifdhKRw9GP0xL63UFfrs4qu69TWRK1qNWoPAHT7-2FwkQUvy5xNrTCEe8Nk8YjCqnw61CKS5sqpBKVR2nu~OAE097Ha6XphJ4ybtmW7rGwpDLiEdOvusxHr2GwEWr7dA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ">
+<img align="right" alt="Coding" width="400" src="238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
 
 - 🔭 I’m currently working on **Personal Deep Learning projects.**
 
